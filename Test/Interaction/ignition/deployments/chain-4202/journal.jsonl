@@ -1,0 +1,7 @@
+
+{"chainId":4202,"type":"DEPLOYMENT_INITIALIZE"}
+{"artifactId":"IUniswapV2Router01#IUniswapV2Router01","constructorArgs":[],"contractName":"IUniswapV2Router01","dependencies":[],"from":"0x2b43b0c5ba5e358d7d38b4657e503a26c1554daa","futureId":"IUniswapV2Router01#IUniswapV2Router01","futureType":"NAMED_ARTIFACT_CONTRACT_DEPLOYMENT","libraries":{},"strategy":"basic","strategyConfig":{},"type":"DEPLOYMENT_EXECUTION_STATE_INITIALIZE","value":{"_kind":"bigint","value":"0"}}
+{"futureId":"IUniswapV2Router01#IUniswapV2Router01","networkInteraction":{"data":"0x","id":1,"type":"ONCHAIN_INTERACTION","value":{"_kind":"bigint","value":"0"}},"type":"NETWORK_INTERACTION_REQUEST"}
+{"futureId":"IUniswapV2Router01#IUniswapV2Router01","networkInteractionId":1,"nonce":14,"transaction":{"fees":{"maxFeePerGas":{"_kind":"bigint","value":"1000506"},"maxPriorityFeePerGas":{"_kind":"bigint","value":"1000000"}},"hash":"0xfac21e6953bbd4d7ad5e1ed73a986a2836856ddde31217d5c7aeaedf64fc80ca"},"type":"TRANSACTION_SEND"}
+{"futureId":"IUniswapV2Router01#IUniswapV2Router01","hash":"0xfac21e6953bbd4d7ad5e1ed73a986a2836856ddde31217d5c7aeaedf64fc80ca","networkInteractionId":1,"receipt":{"blockHash":"0x821715c7569ebe44d7e7db14faadf9cd71247dcd053cdca5d2ecaba1d01e9fcd","blockNumber":11271213,"contractAddress":"0x0A1F1d42066454DF0088437432644d9865182099","logs":[],"status":"SUCCESS"},"type":"TRANSACTION_CONFIRM"}
+{"futureId":"IUniswapV2Router01#IUniswapV2Router01","result":{"address":"0x0A1F1d42066454DF0088437432644d9865182099","type":"SUCCESS"},"type":"DEPLOYMENT_EXECUTION_STATE_COMPLETE"}
